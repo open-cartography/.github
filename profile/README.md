@@ -2,7 +2,11 @@
 
 Bridging the Worlds of Opentelemetry and Cartography
 
-Open Cartography is a cutting-edge visualization tool that seamlessly blends the rich traditions of cartography with the modern advancements of opentelemetry. Our aim is to design and create dynamic, temporal graph networks that provide users with an unparalleled perspective on their data-driven systems.
+Open Cartography aims a cutting-edge visualization tool that seamlessly mimics the rich traditions of cartography with the modern advancements of opentelemetry. Our aim is to design and create dynamic, temporal graph networks that provide users with an unparalleled perspective on their data-driven systems.
+
+| ![Simplistic Gauges](../footsteps/2023-04-06 SimplisticGauges.png) | ![Topo Gauges](../footsteps/2023-04-07 topo-gauges.png) |
+|:---:|:---:|
+
 
 Historically, cartography has always been about more than just map-making; it's the art and science of understanding and communicating spatial information. For centuries, cartographers have been helping humanity navigate, explore, and understand the world around them. Their work has often been an essential catalyst for breakthroughs in various fields, fostering a sense of adventure, curiosity, and discovery.
 
