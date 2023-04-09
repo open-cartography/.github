@@ -4,7 +4,7 @@ Bridging the Worlds of Opentelemetry and Cartography
 
 Open Cartography aims a cutting-edge visualization tool that seamlessly mimics the rich traditions of cartography with the modern advancements of opentelemetry. Our aim is to design and create dynamic, temporal graph networks that provide users with an unparalleled perspective on their data-driven systems.
 
-| ![Simplistic Gauges](../footsteps/2023-04-06 SimplisticGauges.png) | ![Topo Gauges](../footsteps/2023-04-07 topo-gauges.png) |
+| ![Simplistic Gauges](https://github.com/open-cartography/.github/blob/main/footsteps/2023-04-06%20SimplisticGauges.png) | ![Topo Gauges](../footsteps/2023-04-07 topo-gauges.png) |
 |:---:|:---:|
 
 
