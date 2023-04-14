@@ -12,7 +12,7 @@ _A Vision for a Connected, Empowered Future_
 6. **Shared Ownership**: Let us break free from the shackles of monopolies and ensure that topology mapping tools and resources are equally accessible and available to all, not controlled by any individual or company.
 7. **Cutting-Edge Innovation**: We will relentlessly strive for state-of-the-art advancements in open-source service topology maps, pushing the boundaries of what is possible and setting new standards in the field.
 8. **Intuitive and Accessible Visuals**: We envision a future where self-descriptive and intuitively designed topology maps enable everyone, regardless of their background, to identify problems and bottlenecks with ease, fostering informed decision-making for all.
-
+9. **Democratizing the Evolution**: We invite everyone who shares our vision to join us in this movement, fostering a global community committed to democratizing the evolution of service topology mapping. By uniting our diverse talents and perspectives, we can collaboratively steer the future of observability data, sculpt its landscape, and explore the doors it opens. 
 Together, let us march towards this bright and empowered future, united by the vision of open cartography, where technology serves as a bridge to a more connected and enlightened world.
 ## Design Principles
 _A Journey of Discovery and Understanding_
