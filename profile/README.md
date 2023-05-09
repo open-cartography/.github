@@ -31,5 +31,8 @@ Open Cartography brings together the best of both worlds, merging the historical
 
 Embrace the power of Open Cartography and embark on a new journey of discovery and understanding. Reveal the hidden connections within your system, delve into the intricacies of your data, and navigate your way to success with the unparalleled visualization capabilities of Open Cartography.
 
+## Roadmap
+👉🏾 [A possible trail](https://github.com/open-cartography/.github/blob/main/profile/Roadmap.md)
+
 > **"Visualization is daydreaming with a purpose." - Bo Bennett**
 
