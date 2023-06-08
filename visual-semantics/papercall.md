@@ -1,4 +1,4 @@
-# Observability Visualization Possibilities and Opportunities in the Age of OpenTelemetry
+# Observability Visualization in the Age of OpenTelemetry
 
 # Elevator Pitch:
 
@@ -8,8 +8,8 @@ OpenTelemetry isn't just a step forward; it's a leap into a new era of observabi
 
 Embark with me on a voyage through the world of observability visualization. As we delve into numerous examples and prototypes, both existing and potential, my hope is that they will ignite your own creative sparks. When it comes to understanding our complex systems, remember, visuals truly do matter!
 
-- A Brief and Personal History of Visualization in Understanding Complex Systems
-    - From modeling to real-time architecture in Application Performance Management (APM), transaction visibility to call graphs, and sequence diagrams, we've come a long way in visualizing our complex systems.
+- A Brief and Personal History of Visualization in Understanding Complex Systems [🔗](https://tractatus.one/the-quest-for-the-holy-observability-graph-foreword-27d8c4f7c8b5)
+    - From modeling to real-time architecture in Application Performance Management (APM), transaction visibility to call graphs, and sequence diagrams, we've come a long way in visualizing our complex systems. [🔗](https://tractatus.one/the-quest-for-the-holy-observability-graph-part-1-9d3613e28332)
     - We have a rich vocabulary of buzzwords such as topology, graph, network, flow diagrams, dependency maps, etc. 
     - Complex Nature of data: We've always dealt with dynamic temporal graph networks (TGNs)
 
@@ -28,9 +28,10 @@ Embark with me on a voyage through the world of observability visualization. As 
     - Visualization Libraries Uncovered:  D3, Cytoscape, etc. 
     - The Open Source Dilemma with AGPL Turns: Grafana, Jaeger, Kiali , Perses, Coredash, etc. 
     - Navigating a Personal Journey of Visual Prototyping:
-        -Converting Metrics to Topology and Encountering Boundaries
+        - Extracting Sequence Diagrams from Traces
+        - Converting Metrics to Topology and Encountering Boundaries
         - Innovating Tracing Presentation: Adopting the Transit-Map Metaphor, Concentrating on Path-Centric Representation, and Incorporating Time into Visuals (UCM), and more.
-        - the Need for 3D Visualizations and its Implications
+        - The Need for 3D Visualizations and its Implications
     - Elevating Relationships to First-Class Citizen Status:
         - Extracting and Archiving Topologies
         - Viewing Topology as a Signal
