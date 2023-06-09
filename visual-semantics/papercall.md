@@ -6,8 +6,7 @@ OpenTelemetry isn't just a step forward; it's a leap into a new era of observabi
 
 # Description:
 
-Embark with me on a voyage through the world of observability visualization. As we delve into numerous examples and prototypes, both existing and potential, my hope is that they will ignite your own creative sparks. When it comes to understanding our complex systems, remember, visuals truly do matter!
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*pwYayJDW9sm2Exar2KMivw.png) 
+Embark with me on a voyage through the world of observability visualization. As we delve into numerous examples and prototypes, both existing and potential, my hope is that they will ignite your own creative sparks. When it comes to understanding our complex systems, remember, visuals truly do matter! 
 
 - `A Brief and Personal History of Visualization in Understanding Complex Systems`    [1'](https://tractatus.one/the-quest-for-the-holy-observability-graph-foreword-27d8c4f7c8b5)
     - From modeling to real-time architecture in Application Performance Management (APM), transaction visibility to call graphs, and sequence diagrams, we've come a long way in visualizing our complex systems.  [2'](https://tractatus.one/the-quest-for-the-holy-observability-graph-part-1-9d3613e28332)
