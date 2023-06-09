@@ -7,37 +7,78 @@ OpenTelemetry isn't just a step forward; it's a leap into a new era of observabi
 # Description:
 
 Embark with me on a voyage through the world of observability visualization. As we delve into numerous examples and prototypes, both existing and potential, my hope is that they will ignite your own creative sparks. When it comes to understanding our complex systems, remember, visuals truly do matter!
+![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*pwYayJDW9sm2Exar2KMivw.png) 
 
-- A Brief and Personal History of Visualization in Understanding Complex Systems [🔗](https://tractatus.one/the-quest-for-the-holy-observability-graph-foreword-27d8c4f7c8b5)
-    - From modeling to real-time architecture in Application Performance Management (APM), transaction visibility to call graphs, and sequence diagrams, we've come a long way in visualizing our complex systems. [🔗](https://tractatus.one/the-quest-for-the-holy-observability-graph-part-1-9d3613e28332)
+- `A Brief and Personal History of Visualization in Understanding Complex Systems`    [1'](https://tractatus.one/the-quest-for-the-holy-observability-graph-foreword-27d8c4f7c8b5)
+    - From modeling to real-time architecture in Application Performance Management (APM), transaction visibility to call graphs, and sequence diagrams, we've come a long way in visualizing our complex systems.  [2'](https://tractatus.one/the-quest-for-the-holy-observability-graph-part-1-9d3613e28332)
     - We have a rich vocabulary of buzzwords such as topology, graph, network, flow diagrams, dependency maps, etc. 
-    - Complex Nature of data: We've always dealt with dynamic temporal graph networks (TGNs)
+    - Complex Nature of data: We've always dealt with dynamic temporal graph networks (TGNs)    [3'](https://tractatus.one/the-quest-for-the-holy-observability-graph-part-2-1b2b0b9b2b0b), [4'](https://tractatus.one/pathways-metrics-to-traces-55a7d6c8682a)
 
-- What does does OpenTelemetry unlock?
-    - Unparalleled Tech Stack and Industry Coverage Enabling Unified Data Landscape
+- `What does does OpenTelemetry unlock?`
+    - Unparalleled Tech Stack and Industry Coverage Enabling Unified Data Landscape [5'](https://tractatus.one/the-quest-for-the-holy-observability-graph-part-2-51defa4e97d9)
     - Open Source Community and innovation
         - Game-changing introduction of OpenTelemetry Collector
-        - Emerging New techniques: The Critical User Interaction (CUI), Failed Customer Interactions (FCI), Trace based testing & RUM
+        - Emerging New techniques: 
+            - The Critical User Interaction (CUI)
+            [6'](https://tractatus.one/the-quest-for-the-holy-observability-graph-part-3-5a8969cff572)
+            - Failed Customer Interactions (FCI)
+            - Trace based testing and usage as RUM
         - Shifting Left: Build-time observability, briding the gap between ops and dev
         - Serving the truth: Service catalog , process mining, etc.
 
-- The Future of Visualization: Opportunities and Possibilities
+- `The Future of Visualization`: Opportunities and Possibilities
     We're moving towards a new era of topology visualization and navigation.
     
-    - The Art of Metaphors: Illuminating the Value of Visualization
-    - Visualization Libraries Uncovered:  D3, Cytoscape, etc. 
-    - The Open Source Dilemma with AGPL Turns: Grafana, Jaeger, Kiali , Perses, Coredash, etc. 
-    - Navigating a Personal Journey of Visual Prototyping:
-        - Extracting Sequence Diagrams from Traces
-        - Converting Metrics to Topology and Encountering Boundaries
-        - Innovating Tracing Presentation: Adopting the Transit-Map Metaphor, Concentrating on Path-Centric Representation, and Incorporating Time into Visuals (UCM), and more.
+    - `The Art of Metaphors`: Illuminating the Value of Visualization [7'](https://tractatus.one/the-quest-for-the-holy-observability-graph-part-3-5a8969cff572)
+    - `Visualization Libraries Uncovered`:  D3, Cytoscape, etc. [8'](https://tractatus.one/the-quest-for-the-holy-observability-graph-part-3-5a8969cff572) , [9'](https://https://tractatus.one/shahmaran-20a9f1678)
+    - `The Open Source Dilemma with AGPL Turns`: Grafana, Jaeger, Kiali , Perses, Coredash, etc. 
+    - `A Personal Journey of Visual Prototyping`:
+        - Sequence Diagrams from Traces [10'](https://devrimdemiroz.gitlab.io/post/2021-03-09-observeopenam/)
+        - Converting Metrics to Topology and Encountering Boundaries [11'](https://tractatus.one/shahmaran-20a9f1678)
+        - `Innovating Tracing Presentation`: 
+            - Adopting the Transit-Map Metaphor [18'](https://tractatus.one/collector-pipelinesvisual-language-26f950c8d22) , [19'](https://tractatus.one/transit-observability-map-e73c61a9b9e0)
+            - Rediscovering the Power of Path-Centric Representation  [18'](https://tractatus.one/collector-pipelinesvisual-language-26f950c8d22) , [20'](https://tractatus.one/the-quest-for-the-holy-observability-graph-part-1-9d3613e28332)
+            - Incorporating Time into Visuals (UCM) [21'](https://tractatus.one/shahmaran-20a9f1678)
+        - `Pareidolia Phenomenon`: Revealing Unexpected Forms in Observability Visualization
+            - o11y octopus [12'](https://tractatus.one/pathways-metrics-to-traces-55a7d6c8682a)
+            -  Clowns with Crowns [13'](https://tractatus.one/pathways-metrics-to-traces-55a7d6c8682a)
+            - Front End Running , One Leg Bleeding [14'](https://tractatus.one/pathways-metrics-to-traces-55a7d6c8682a)
+            - Microservices Caught Between Slides and Coverslips [15'](https://tractatus.one/pathways-metrics-to-traces-55a7d6c8682a)
         - The Need for 3D Visualizations and its Implications
-    - Elevating Relationships to First-Class Citizen Status:
+    - `Elevating Relationships to First-Class Citizen Status`:
         - Extracting and Archiving Topologies
-        - Viewing Topology as a Signal
-        - Pheromones Analogy
-        - Is there a Role for AI/ML in Enhancing Human-Perceptible Visualizations?
+        - Viewing Topology as a Signal [16'](https://github.com/devrimdemiroz/opentelemetry-demo-webstore/blob/shahmaran/src/servicetopology/SpanGraphProcessor.md)
+        - Pheromones Analogy [17'](https://tractatus.one/using-pheromones-via-opentelemetry-for-efficient-routing-in-distributed-system-ac163b26382e)
+        - Is there a Role for AI in Enhancing Human-Perceptible Visualizations? Or the other way around, Visualizations as ML for Enhancing AI for observability?
 
    
+# Notes
+
+
+## Titles to look for in links cited in description
+| **#** | **Title and Link** | **Notes** |
+| --- | --- | --- |
+| 1' | [Footprints of a Dinosaur](https://tractatus.one/the-quest-for-the-holy-observability-graph-foreword-27d8c4f7c8b5) | ![](https://miro.medium.com/v2/resize:fill:224:224/g:fp:0.29:0.09/1*cwgB2gERTgYo82PJ7rNjAg.jpeg) |
+| 2' | [The Quest for the Holy Observability Graph • Part 1](https://tractatus.one/the-quest-for-the-holy-observability-graph-part-1-9d3613e28332) |![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*dBl4n92jl-q1Vs-cCe7F0A.png)  |
+| 3' | [Models versus Real-time Architectures](https://tractatus.one/the-quest-for-the-holy-observability-graph-part-3-5a8969cff572) |  ![](https://miro.medium.com/v2/resize:fit:808/format:webp/1*Fne9xoPThjNLve3D1isr4w.png)|
+| 4' | [Dynamic TGN Notes](https://tractatus.one/pathways-metrics-to-traces-55a7d6c8682a) | ![](https://miro.medium.com/v2/resize:fit:1400/0*JSLDSDFIicPb8SN3) |
+| 5' | [The Revolution](https://tractatus.one/the-quest-for-the-holy-observability-graph-part-2-51defa4e97d9) | ![](https://miro.medium.com/v2/resize:fit:1002/format:webp/1*moChPG_vYVgunqnnpHNXxQ.jpeg)  |
+| 6' | [Beyond Distributed Tracing](https://tractatus.one/the-quest-for-the-holy-observability-graph-part-3-5a8969cff572) | ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qhJqHxT3xgPvgOpgzPYbAw.png)  |
+| 7' | [Visual Methapors](https://tractatus.one/the-quest-for-the-holy-observability-graph-part-3-5a8969cff572) | ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*nSrFQvpC4zlVZcpz.jpeg) |
+| 8' | [Visual Library Options](https://tractatus.one/the-quest-for-the-holy-observability-graph-part-3-5a8969cff572) | ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*QY-MGwiyGTWW4UWhoVKPcA.png) |
+| 9' | [Visual Library re-review](https://tractatus.one/shahmaran-20a9f1678) | ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*iHDpuErH8DUVJendtsJ05w.png) |
+| 10' | [Observability Experiment on Forgerock OpenAM](https://devrimdemiroz.gitlab.io/post/2021-03-09-observeopenam/) | ![](https://devrimdemiroz.gitlab.io/oidc-authz.svg) |
+| 11' | [Service Topology Map from Prometheus metrics](https://tractatus.one/shahmaran-20a9f1678) | ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BXUMKn4u-5tdU6noFGXU8w.png) |
+| 12' | [o11y octopus](https://tractatus.one/pathways-metrics-to-traces-55a7d6c8682a) | ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*V7p2-EfICdEa4iMdsscDqA.png)  |
+| 13'| [Clowns with Crowns](https://tractatus.one/pathways-metrics-to-traces-55a7d6c8682a) | ![](https://miro.medium.com/v2/resize:fit:848/format:webp/1*5uhyy-S-MYjfjRgA76vKgw.png)  |
+| 14' | [Front End Running One Leg Bleeding ](https://tractatus.one/pathways-metrics-to-traces-55a7d6c8682a) | ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*-Mq81wajV5R5qtev539ddw.png)  |
+| 15' | [Microservices Caught Between Slides and Coverslips](https://tractatus.one/pathways-metrics-to-traces-55a7d6c8682a) | ![](https://miro.medium.com/v2/resize:fit:1280/1*FhwJko3X-fOxFp_RE8eKpw.gif)  |
+| 16' | [Topology Processor](https://github.com/devrimdemiroz/opentelemetry-demo-webstore/blob/shahmaran/src/servicetopology/SpanGraphProcessor.md) | ![](https://github.com/devrimdemiroz/opentelemetry-demo-webstore/raw/shahmaran/src/servicetopology/img.png)  |
+| 17' | [Using Pheromones via OpenTelemetry for Efficient Routing in Distributed System](https://tractatus.one/using-pheromones-via-opentelemetry-for-efficient-routing-in-distributed-system-ac163b26382e) | ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*rxSMGWCDn68lChd7m88txw.png)  |
+| 18' | [Collector Pipelines Visual Language](https://tractatus.one/collector-pipelinesvisual-language-26f950c8d22) | ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*cObFTtFHt8NBlbsN5hDofA.png)  |
+| 19' | [Transit Observability Map](https://tractatus.one/transit-observability-map-e73c61a9b9e0) | ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*DL5HF9zHFjduFD3Fr8q2FQ.png)  |
+| 20' | [UCM — Bridging the Requirements/Design Gap](https://tractatus.one/the-quest-for-the-holy-observability-graph-part-1-9d3613e28332) |  ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*W1a4a69e6Knbj93bevx1yQ.png)|
+| 21' | [Trace Routes ( Silk, Spice, …)](https://tractatus.one/shahmaran-20a9f1678) | ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*sxaXYQAr26oeZVJa-k-vug.png)  |
+| 22' | [Opencartogaphy](https://tractatus.one/on-the-road-again-84091e77782a) | ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*pwYayJDW9sm2Exar2KMivw.png)  |
 
 
