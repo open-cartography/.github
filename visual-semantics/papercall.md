@@ -51,11 +51,17 @@ Embark with me on a voyage through the world of observability visualization. As 
         - Pheromones Analogy [17'](https://tractatus.one/using-pheromones-via-opentelemetry-for-efficient-routing-in-distributed-system-ac163b26382e)
         - Is there a Role for AI in Enhancing Human-Perceptible Visualizations? Or the other way around, Visualizations as ML for Enhancing AI for observability?
 
-   
+
+---
+
+
 # Notes
 
+As a software performance engineer, although I consider myself a newbie in data visualization, I have a clear vision of what I want to see in observability visualization. Instead of waiting for others to take the lead, I have taken it upon myself to prototype possibilities and unlock the full potential of OpenTelemetry. With a passion for sharing knowledge and helping others navigate the complexities of technology, I strive to contribute to a more connected and empowered future, harness collective intelligence, embrace environmental responsibility, and democratize the evolution of observability understanding. 
 
-## Titles to look for in links cited in description
+Because, `Visuals Matter!`
+
+## Titles to look for in links cited in description:
 | **#** | **Title and Link** | **Notes** |
 | --- | --- | --- |
 | 1' | [Footprints of a Dinosaur](https://tractatus.one/the-quest-for-the-holy-observability-graph-foreword-27d8c4f7c8b5) | ![](https://miro.medium.com/v2/resize:fill:224:224/g:fp:0.29:0.09/1*cwgB2gERTgYo82PJ7rNjAg.jpeg) |
