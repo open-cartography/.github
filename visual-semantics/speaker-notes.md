@@ -1,5 +1,4 @@
-
-# Scene 0
+For https://www.papercall.io/talks/250397
 
 ## 0.1 Rocky Trail
 
