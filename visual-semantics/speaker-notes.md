@@ -45,6 +45,8 @@ Around 2008/2009, in my point of view, three major things happened in computer i
 3. iphone: Changed the way we interact with computers. Changed telecommuniction industry. Changed the way we live.
 
 
+I decided to change my career path after I laid my hands on iphone. I happened to be in the right place at the right time. I packed up my deep knowledge on software and performance engineering experience and moved on to delivering APM consultancy to a broad range of customers. Over 15 customers including critical systems like core banking, live streaming applications and many more. 
+
 # Scene 3 slide APM
 
 ## 3.1 2003 Mercury Performant and LoadRunner
