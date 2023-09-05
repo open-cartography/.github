@@ -3,16 +3,14 @@ For https://www.papercall.io/talks/250397
 ## 0.1 Rocky Trail
 
 ### 0.1.1 Me
-I'm Devrim Demiroz, and I like to think of myself as an explorer in the world of technology. My journey began with punch cards and early computers, and today, I find myself charting new paths in observability visualization with OpenTelemetry. While I'm still learning and growing, my passion for sharing knowledge and connecting with others drives me to contribute to a more meaningful relationship between technology and understanding. In a way, I'm a modern Cartographer, Young in Heart, and always eager to discover what's next.
+I'm Devrim Demiroz. Today I would like to share a vision in other words my dreams regarding a visualisation is off complex systems. My journey began with c64 and we are here today.   charting new ideas in observability visualization with OpenTelemetry.  still i am learning. still i am growing. my passion drives me to contribute to a more meaningful relationship between technology and understanding. In a way, I'm a modern Cartographer, Young in Heart, and always eager to discover what's next.
 
 ### 0.1.2 Disclaimers
 - I am currently employed at Swisscom. However, this talk is presented as my individual perspective and does not reflect the views or positions of the company.
 
 - I started using chatgpt 4 to enhance this speech and used it in heavily with copilot in prototyping. 
 
-
-
-# Scene 1
+- in this talk, I will not deep dive many  referenced concepts, products, et cetera. Rather, I will leave them as clues for curious minds.
 
 ## 1.1 Why Software Modelling became hype in 2000s?
 My take is that it was a reaction to the complexity of software systems. Internets second wave was demanding more and more integration led to more and more complexity.
