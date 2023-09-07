@@ -81,6 +81,8 @@ Stepping outside IT operations, similar visualizations are used in other domains
 
 This Brain network visualization is from the Connectome, 2019 from barabasi lab. Where it lands in fields of ART and defined as data sculpture.
 
+No worries, I will not jump into what is art from here 😊 
+
 ## 4.3 Models versus Real-time Architectures
 
 Fundamentally, models exist even you switch off the system. Where real-time architecture views exist in a timeframe where telemetry data is available. Real-time architectures depend on spatiotemporal data. Where spatial refers to space and temporal refers to time. Waze(acquired by Google) crowd-sourced traffic data from its users to construct traffic and map data like new roads appearing. The dialect between software modelling and telemetry-derived data is very similar in that sense.
@@ -127,3 +129,7 @@ The sequence diagram is from a blog I posted early 2021. I was able formally ens
 So, I was able to compare 102 possible MFA complex flows visually and formally with the help of OpenTelemetry, Puppeteer and PlantUML.  You can find the details of this implementation on the link provided.
 
 ## 6.2 
+
+Coverage opetelemetry offers is huge. And this means now we can validate our models with more data and make stronger predictions leading to better decisions. 
+
+It is in a way how our brain works. Keeping a model of the world and validating it with the data we observe , form shared reality.
