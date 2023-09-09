@@ -1,19 +1,20 @@
-
-# Scene 0
+For https://www.papercall.io/talks/250397
 
 ## 0.1 Rocky Trail
 
 ### 0.1.1 Me
-I'm Devrim Demiroz, and I like to think of myself as an explorer in the world of technology. My journey began with punch cards and early computers, and today, I find myself charting new paths in observability visualization with OpenTelemetry. While I'm still learning and growing, my passion for sharing knowledge and connecting with others drives me to contribute to a more meaningful relationship between technology and understanding. In a way, I'm a modern Cartographer, Young in Heart, and always eager to discover what's next.
+I'm Devrim Demiroz. Today I would like to share a vision in other words my dreams regarding a visualisation is off complex systems. My journey began with c64 and we are here today.   charting new ideas in observability visualization with OpenTelemetry.  still i am learning. still i am growing. my passion drives me to contribute to a more meaningful relationship between technology and understanding. In a way, I'm a modern Cartographer, Young in Heart, and always eager to discover what's next.
 
-### 0.1.2 Disclaimers
+### 0.1.2 this talk
+
+this talk  is about how to make better decisions under uncertainty. I strongly believe   visualisaing complex software structures ( systems) is a form of art that will change our understanding. 
+
+### 0.1.3 Disclaimers
 - I am currently employed at Swisscom. However, this talk is presented as my individual perspective and does not reflect the views or positions of the company.
 
 - I started using chatgpt 4 to enhance this speech and used it in heavily with copilot in prototyping. 
 
-
-
-# Scene 1
+- in this talk, I will not deep dive many  referenced concepts, products, et cetera. Rather, I will leave them as clues for curious minds.
 
 ## 1.1 Why Software Modelling became hype in 2000s?
 My take is that it was a reaction to the complexity of software systems. Internets second wave was demanding more and more integration led to more and more complexity.
@@ -82,6 +83,8 @@ Stepping outside IT operations, similar visualizations are used in other domains
 
 This Brain network visualization is from the Connectome, 2019 from barabasi lab. Where it lands in fields of ART and defined as data sculpture.
 
+No worries, I will not jump into what is art from here 😊 
+
 ## 4.3 Models versus Real-time Architectures
 
 Fundamentally, models exist even you switch off the system. Where real-time architecture views exist in a timeframe where telemetry data is available. Real-time architectures depend on spatiotemporal data. Where spatial refers to space and temporal refers to time. Waze(acquired by Google) crowd-sourced traffic data from its users to construct traffic and map data like new roads appearing. The dialect between software modelling and telemetry-derived data is very similar in that sense.
@@ -131,3 +134,7 @@ So, I was able to compare 102 possible MFA complex flows visually and formally w
 ## 6.2 Opentelemetry as Revolution
 
 It was not a new technology. As I showed, in 2000s the technology existed in different products and forms. What has changed was the peace of related stakeholders with K8s and cloud. Passionate community made it happen. The far most benefit as I can put forward was the coverage opentelemetry achived in a short time. 
+
+Coverage opetelemetry offers is huge. And this means now we can validate our models with more data and make stronger predictions leading to better decisions. 
+
+It is in a way how our brain works. Keeping a model of the world and validating it with the data we observe , form shared reality.
