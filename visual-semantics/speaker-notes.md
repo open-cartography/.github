@@ -68,7 +68,7 @@ Runtime Application Architecture, Business Transactions are built on top of call
 
 Most of the visuals you would see are about this Trace as data and their topological and temporal relationships. All talk is around variations of these three visualizations.
 
-# 4 Context among Buzzwords
+# 4 Finding Context among Buzzwords
 
 ## 4.1 Navigating through the buzzwords
 
@@ -122,9 +122,12 @@ and many products with out-of-box support or compatibility like selenium, nginx,
 
 Opentelemetry in just a two years time grown to a huge ecosystem. For me, it was like a dream coming true. Both sw. modelling and APM worlds were coming together. And opportunities and possibilities were endless.
 
-## 6.1 Opentelemetry and Sequence Diagrams
+## 6.1 Opentelemetry and Sequence Diagrams 
+*2020*
 
 The sequence diagram is from a blog I posted early 2021. I was able formally ensure compliance of OIDC/SAML flows with the help of OpenTelemetry. Moreover, with PlantUML, I was able to generate the sequence diagram from the trace data. 
 So, I was able to compare 102 possible MFA complex flows visually and formally with the help of OpenTelemetry, Puppeteer and PlantUML.  You can find the details of this implementation on the link provided.
 
-## 6.2 
+## 6.2 Opentelemetry as Revolution
+
+It was not a new technology. As I showed, in 2000s the technology existed in different products and forms. What has changed was the peace of related stakeholders with K8s and cloud. Passionate community made it happen. The far most benefit as I can put forward was the coverage opentelemetry achived in a short time. 
