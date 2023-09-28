@@ -2,7 +2,7 @@
 
 Presentation: [Observability Visualization in the Age of OpenTelemetry](https://github.com/open-cartography/.github/blob/main/visual-semantics/SREday%2023%20-%20Observability%20Visualization%20in%20the%20Age%20of%20OpenTelemetry.pdf)
 
-~Tags: #visualsmatter #o11y #cytoscape #datavis #usecasemaps #perses #Observability #Visualization #OpenTelemetry #SREday 
+Tags: #visualsmatter #o11y #cytoscape #datavis #usecasemaps #perses #Observability #Visualization #OpenTelemetry #SREday 
 
 | **Slide #** | **References** |
 | --- | --- |
