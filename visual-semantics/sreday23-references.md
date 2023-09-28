@@ -2,6 +2,8 @@
 
 Presentation: [Observability Visualization in the Age of OpenTelemetry](https://github.com/open-cartography/.github/blob/main/visual-semantics/SREday%2023%20-%20Observability%20Visualization%20in%20the%20Age%20of%20OpenTelemetry.pdf)
 
+~Tags: #visualsmatter #o11y #cytoscape #datavis #usecasemaps #perses #Observability #Visualization #OpenTelemetry #SREday 
+
 | **Slide #** | **References** |
 | --- | --- |
 | 2 | - Photo: Courmayeur Nord-Ovest, Italy 2021<br>- Title: Kings of Convenience song [Rocky Trail](https://open.spotify.com/track/2eqvJD0b9ueAWwb7QSBGCW?si=08e25003084e4055) |
