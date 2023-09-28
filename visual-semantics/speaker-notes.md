@@ -46,6 +46,8 @@ Around 2008/2009, in my point of view, three major things happened in computer i
 3. iphone: Changed the way we interact with computers. Changed telecommuniction industry. Changed the way we live.
 
 
+I decided to change my career path after I laid my hands on iphone. I happened to be in the right place at the right time. I packed up my deep knowledge on software and performance engineering experience and moved on to delivering APM consultancy to a broad range of customers. Over 15 customers including critical systems like core banking, live streaming applications and many more. 
+
 # Scene 3 slide APM
 
 ## 3.1 2003 Mercury Performant and LoadRunner
@@ -67,7 +69,7 @@ Runtime Application Architecture, Business Transactions are built on top of call
 
 Most of the visuals you would see are about this Trace as data and their topological and temporal relationships. All talk is around variations of these three visualizations.
 
-# 4 Context among Buzzwords
+# 4 Finding Context among Buzzwords
 
 ## 4.1 Navigating through the buzzwords
 
@@ -123,12 +125,15 @@ and many products with out-of-box support or compatibility like selenium, nginx,
 
 Opentelemetry in just a two years time grown to a huge ecosystem. For me, it was like a dream coming true. Both sw. modelling and APM worlds were coming together. And opportunities and possibilities were endless.
 
-## 6.1 Opentelemetry and Sequence Diagrams
+## 6.1 Opentelemetry and Sequence Diagrams 
+*2020*
 
 The sequence diagram is from a blog I posted early 2021. I was able formally ensure compliance of OIDC/SAML flows with the help of OpenTelemetry. Moreover, with PlantUML, I was able to generate the sequence diagram from the trace data. 
 So, I was able to compare 102 possible MFA complex flows visually and formally with the help of OpenTelemetry, Puppeteer and PlantUML.  You can find the details of this implementation on the link provided.
 
-## 6.2 
+## 6.2 Opentelemetry as Revolution
+
+It was not a new technology. As I showed, in 2000s the technology existed in different products and forms. What has changed was the peace of related stakeholders with K8s and cloud. Passionate community made it happen. The far most benefit as I can put forward was the coverage opentelemetry achived in a short time. 
 
 Coverage opetelemetry offers is huge. And this means now we can validate our models with more data and make stronger predictions leading to better decisions. 
 
