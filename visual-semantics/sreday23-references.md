@@ -6,14 +6,14 @@
 
 | **Slide #** | **References** |
 | --- | --- |
-| 2 | - Photo: Courmayeur Nord-Ovest, Italy 2021<br>- Title: Kings of Convenience, 🎼[Rocky Trail] (https://open.spotify.com/track/2eqvJD0b9ueAWwb7QSBGCW?si=08e25003084e4055) |
+| 2 | - Photo: Courmayeur Nord-Ovest, Italy 2021<br>- Title: Kings of Convenience, 🎼[Rocky Trail](https://open.spotify.com/track/2eqvJD0b9ueAWwb7QSBGCW?si=08e25003084e4055) |
 | 5 | - [Unified Modeling Language (UML)](https://en.wikipedia.org/wiki/Unified_Modeling_Language) |
 | 7 | - Image: [Forgerock Authorization Code grant flow](https://backstage.forgerock.com/docs/am/7/oidc1-guide/openid-connect-authorization-code-flow.html) |
 | 8 | - Image: mermaidjs, [Class Diagram](https://github.com/mermaidjs/mermaidjs.github.io/blob/master/classDiagram.md) |
 | 9 | - Image: [Amyot, Daniel & Mussbacher, Gunter. (2001). Bridging the Requirements/Design Gap in Dynamic Systems with Use Case Maps (UCMs).. 743-744. ](https://www.researchgate.net/publication/221554396_Bridging_the_RequirementsDesign_Gap_in_Dynamic_Systems_with_Use_Case_Maps_UCMs) |
 | 12 | - Image: [APM Conceptual Framework](https://en.m.wikipedia.org/wiki/File:APM_Conceptual_Framework.jpg) |
 | 17 | - [Unlocking Grafana APM Dashboard Without Tempo](https://tractatus.one/unlocking-tempo-apm-dashboard-without-tempo-fcbb0f433998) |
-| 19 | - Image: [Barabasi lab art - connectome](https://barabasilab.com/art/work/connectome)<br>- [Dynamic Temporal Graphs Graph Networks](https://towardsdatascience.com/temporal-graph-networks-ab8f327f2efe)<br>- [Attention Based Spatial Temporal Graph Convolutional Networks for Traffic Flow Forecasting](https://paperswithcode.com/dataset/pemsd8) |
+| 19 | - Image: [Barabasi lab art - connectome](https://barabasilab.com/art/work/connectome)<br>- Image: [Dynamic Temporal Graphs Graph Networks](https://towardsdatascience.com/temporal-graph-networks-ab8f327f2efe)<br>- Image: [Attention Based Spatial Temporal Graph Convolutional Networks for Traffic Flow Forecasting](https://paperswithcode.com/dataset/pemsd8) |
 | 24 | - Image: [Beyond Distributed Tracing,Kyusoon Lee, Google](https://www.usenix.org/conference/srecon22americas/presentation/lee)<br>- Image: [Graph Visualization by Organizing Connections in Collapsible Hierarchical Graphs](https://www.tdcommons.org/dpubs_series/2996/) |
 | 25 | - Image: [Chaos Engineering and Observability with Visual Metaphors](https://www.infoq.com/articles/chaos-engineering-observability-visual-metaphors/) |
 | 26 | - Image: [Pocket Underground map, by Henry C Beck, January 1933](https://www.ltmuseum.co.uk/system/files/styles/collection_item_component_600_px_wide/private/collection_item/i0000t2u_6.jpg?itok=Q4GosPr2)<br>- Image: [Collector Pipelines Visual Language](https://tractatus.one/collector-pipelinesvisual-language-26f950c8d22)<br>- Image: [Transit Observability Map](https://tractatus.one/transit-observability-map-e73c61a9b9e0)|
