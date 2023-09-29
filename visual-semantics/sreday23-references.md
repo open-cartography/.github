@@ -6,7 +6,7 @@
 
 | **Slide #** | **References** |
 | --- | --- |
-| 2 | - Photo: Courmayeur Nord-Ovest, Italy 2021<br>- Title: Kings of Convenience, 🎼[Rocky Trail] 🎼(https://open.spotify.com/track/2eqvJD0b9ueAWwb7QSBGCW?si=08e25003084e4055) |
+| 2 | - Photo: Courmayeur Nord-Ovest, Italy 2021<br>- Title: Kings of Convenience, 🎼[Rocky Trail] (https://open.spotify.com/track/2eqvJD0b9ueAWwb7QSBGCW?si=08e25003084e4055) |
 | 5 | - [Unified Modeling Language (UML)](https://en.wikipedia.org/wiki/Unified_Modeling_Language) |
 | 7 | - Image: [Forgerock Authorization Code grant flow](https://backstage.forgerock.com/docs/am/7/oidc1-guide/openid-connect-authorization-code-flow.html) |
 | 8 | - Image: mermaidjs, [Class Diagram](https://github.com/mermaidjs/mermaidjs.github.io/blob/master/classDiagram.md) |
